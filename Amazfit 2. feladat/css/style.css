@@ -1,0 +1,69 @@
+
+header{
+    padding: 15px;
+    background-color: #fd5000;
+}
+
+nav li{
+    list-style: none;
+}
+.navbar{
+    background-color: #fd5000;
+}
+
+h1{
+    margin-top: 10px;    
+    color:   #fd5000;
+    font-variant: small-caps;
+}
+
+h2{    
+    margin-top: 10px;    
+    padding: 5px 15px;
+    font-variant: small-caps;
+    border-left: 3px dotted #fd5000;
+    border-top: 3px dotted #fd5000;
+    color: #fd5000;
+}
+
+h3{    
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    color:  #fd5000;    
+    border-top: 1px dashed #fd5000; 
+    border-bottom: dotted;
+}
+
+p{
+    text-align: justify;
+}
+
+.center {
+    display: block;
+    height: 200px;
+   }
+
+footer{
+    background-color: #fd5000;
+    font-weight: italic;
+    text-align: center;
+    font-size: 2.5vw;
+    margin-inline: 10px;
+}
+
+footer p{ 
+    font-variant: small-caps;   
+}
+
+.header a{
+    font-weight: bold;
+}
+
+.header a:hover{
+    font-weight: italic;
+}
+
+#hasonlitas ul {
+    list-style-image: url(../img/mi.png);
+}
